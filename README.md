@@ -1,24 +1,25 @@
-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/abiola0x">Software Engineer</a> <!---, <a href="https://www.linkedin.com/in/jonathan-amu/">UX Researcher</a> --></h1>
+<h1>hi, i'm jonathan! <br/><a href="https://github.com/abiolaa0x">front-end software engineer.</a> <!---, <a href="https://www.linkedin.com/in/jonathan-amu/">ux researcher</a> --></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 software development projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>data structures and algorithms practice (algoexpert)</b>
+  - [praciting ds & algos in python](https://github.com/joshmadakor1/algorithms-practice)
+- <b>full stack web app (react, nodejs, azure, and machine learning components)</b>
+  - [image analysis middleware](https://github.com/joshmadakor1/4chan-image-analysis-middleware-c964) <b><i>(potentially nsfw)</b></i>
+- <b>powershell</b>
+  - [windows eventlog: failed rdp logins source ip to full geodata conversion](https://github.com/joshmadakor1/sentinel-lab)
+  - [jwipe (disk wiping utility)](https://github.com/joshmadakor1/jwipe.powershell)
+  - [active directory bulk user creation](https://github.com/joshmadakor1/ad_ps)
+  - [fim (file integrity monitor)](https://github.com/joshmadakor1/powershell-integrity-fim)
+- <b>c# (.net desktop applications)</b>
+  - [ransomware proof of concept (encrypter)](https://github.com/joshmadakor1/encrypterpoc)
+  - [ransomware proof of concept (decrypter)](https://github.com/joshmadakor1/decrypterpoc)
+  - [keylogger with email capability](https://github.com/joshmadakor1/key-logger-with-email)
+- <b>python</b>
+  - [package delivery application (datastructures and algorithms demo)](https://github.com/joshmadakor1/package-delivery-pathfinding-algorithm)
 
-<h2>📜Cerifications:</h2>
+
+<h2>📜cerifications:</h2>
 
 - <b>ALX Africa</b> | Lagos, Nigeria
   - Front-End Web Development Certificate, <i>Currently Enrolled</i>
