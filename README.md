@@ -1,4 +1,4 @@
-<h1>hi, i'm jonathan! <br/><a href="https://github.com/abiolaa0x">front-end software engineer.</a> <!---, <a href="https://www.linkedin.com/in/jonathan-amu/">ux researcher</a> --></h1>
+<h1>whatsup, i'm jonathan! <br/><a href="https://github.com/abiolaa0x">front-end software engineer.</a> <!---, <a href="https://www.linkedin.com/in/jonathan-amu/">ux researcher</a> --></h1>
 
 <h2>👨‍💻 software development projects:</h2>
 
